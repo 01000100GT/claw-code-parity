@@ -1,0 +1,2 @@
+{"created_at_ms":1775194457436,"session_id":"session-1775194457436-0","type":"session_meta","updated_at_ms":1775194457436,"version":1}
+{"message":{"blocks":[{"text":"你是谁? 当前项目下有哪些目录? 这些目录都是做什么的?","type":"text"}],"role":"user"},"type":"message"}
